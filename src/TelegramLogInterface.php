@@ -7,7 +7,7 @@
  *
  * @copyright Copyright (c) 2021 Jigius <jigius@gmail.com>
  */
-namespace Acc\Core\Log\Telega
+namespace Acc\Core\Log\Telega;
 
 use Acc\Core\Log;
 
