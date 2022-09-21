@@ -1,0 +1,23 @@
+{
+    "name": "jigius/log-telega",
+    "description": "Does logs messages in via telegram-API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jigius",
+            "email": "jigius@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4.0",
+        "jigius/acc-core-log": "^0.1",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Acc\\Core\\Log\\Telega": "src/"
+        }
+    }
+}
