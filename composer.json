@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Acc\\Core\\Log\\Telega": "src/"
+            "Acc\\Core\\Log\\Telega\\": "src/"
         }
     }
 }
